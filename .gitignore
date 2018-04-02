@@ -1,0 +1,15 @@
+# environment *nix
+!.htaccess
+.*
+!.gitignore
+*~
+
+# composer
+vendor/*
+composer.phar
+composer.lock
+
+# netbeans
+nbproject
+*.swp
+*/*.swp

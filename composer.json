@@ -1,0 +1,6 @@
+{
+    "require": {
+        "tz-lom/hsphp": "^1.21",
+        "catfan/medoo": "^1.5"
+    }
+}

@@ -1,4 +1,4 @@
-# Info about hit counts with the HandlerSocker Library with PHP
+# Info about hit counts with the HandlerSocket Library with PHP
 
 HandlerSocker library provides an API for communicating with the HandlerSocket plugin for
 MySQL compatible databases(MySQL, MariaDB, Percona). [Using MySQL as a NoSQL - A story for exceeding 750,000 qps on a commodity server](http://yoshinorimatsunobu.blogspot.com/2010/10/using-mysql-as-nosql-story-for.html).
